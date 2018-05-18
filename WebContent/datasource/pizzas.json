@@ -1,0 +1,56 @@
+[{
+  "pizza_name":"Corn Cheese",
+  "pizza_image": "images/Corn_cheese.png",
+  "pizza_price_R": "119",
+  "pizza_price_M": "229",
+  "pizza_price_L": "400",
+  "pizza_indgredients": "Cheese I Golden corn",
+  "quantity":"0"
+ 
+},
+{
+  "pizza_name":"Deluxe Veg",
+  "pizza_image": "images/deluxeveg.png",
+  "pizza_price_R": "99",
+  "pizza_price_M": "199",
+  "pizza_price_L": "299",
+  "pizza_indgredients": "Onion I Capsicum I Grilled Mushroom I Golden Corn  I Paneer",
+  "quantity":"0"
+},
+{
+  "pizza_name":"Five Peppers",
+  "pizza_image": "images/five-peppers.png",
+  "pizza_price_R": "149",
+  "pizza_price_M": "299",
+  "pizza_price_L": "499",
+  "pizza_indgredients": "Capsicum I Yellow  I Red Bell Pepper I Jalapeno  I Red Paprika",
+  "quantity":"0"
+},
+{
+  "pizza_name":"Margherita",
+  "pizza_image": "images/margherita.png",
+  "pizza_price_R": "99",
+  "pizza_price_M": "149",
+  "pizza_price_L": "349",
+  "pizza_indgredients": "Loaded with extra cheese!",
+  "quantity":"0"
+},
+{
+  "pizza_name":"Fresh Veggie",
+  "pizza_image": "images/pix_Fresh_Veggie-01.png",
+  "pizza_price_R": "149",
+  "pizza_price_M": "399",
+  "pizza_price_L": "599",
+  "pizza_indgredients": "Onion  I Capsicum",
+  "quantity":"0"
+},
+{
+  "pizza_name":"Veg Extra",
+  "pizza_image": "images/vegextra.png",
+  "pizza_price_R": "199",
+  "pizza_price_M": "399",
+  "pizza_price_L": "699",
+  "pizza_indgredients": "Black Olives I Onion I Capsicum IGrilled Mushroom I Tomato I Golden Corn I Jalapeno  I Extra Cheese",
+  "quantity":"0"
+}
+]

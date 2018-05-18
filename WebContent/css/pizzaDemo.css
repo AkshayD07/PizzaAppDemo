@@ -1,0 +1,80 @@
+.img-responsive {
+	margin: 0 auto;
+}
+
+.centered {
+	text-align: center;
+}
+
+.dropbtn {
+	background-color: #cc5200;
+	color: white;
+	border: 1;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f1f1f1;
+	width: 300px;
+	min-width: 160px;
+	-webkit-box-shadow: 0 15px 10px #777;
+	-moz-box-shadow: 0 15px 10px #777;
+	box-shadow: 0 15px 10px #777;
+	z-index: 1;
+	border-color: black;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+	bottom: 100%;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: #0099cc;
+}
+
+.quantity_box {
+	width: 30px;
+	height: 28px;
+	padding: 5px;
+	margin: 2px;
+	font-size: 12px;
+	text-align: center;
+}
+
+.cart {
+	padding: 20px;
+	float: right;
+	color: #fff;
+	cursor: pointer;
+}
+
+.addToCart {
+	margin: 7px;
+}
+
+.nopaddingright {
+	padding-right: 0 !important;
+}
+
+.nopaddingleft {
+	padding-left: 0 !important;
+}
+
+.lblCartCount {
+	font-size: 12px;
+	color: #fff;
+	padding: 0 5px;
+	vertical-align: top;
+}
+
+.dropdown-menu.pull-right {
+	padding: 15px;
+	width: 30%;
+}
